@@ -1,0 +1,32 @@
+.bg-dark {
+    background-color: rgb(45, 43, 43);
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.navbar-brand, .nav-link {
+    color: gray;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.active {
+    color: white;
+}
+
+.bg-light {
+    background-color: gray;
+    height: 30vh;
+}
+
+footer {
+    height: 7vh;
+}
